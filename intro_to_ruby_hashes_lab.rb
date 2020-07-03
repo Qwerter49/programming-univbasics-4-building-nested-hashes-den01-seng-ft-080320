@@ -1,6 +1,7 @@
 def base_hash
   
-  
+  {:key
+  }
 
 end
 
